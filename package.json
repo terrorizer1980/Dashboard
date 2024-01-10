@@ -37,6 +37,6 @@
     "preact-i18n": "^2.0.0-preactx.2",
     "preact-render-to-string": "^5.0.7",
     "preact-router": "^3.0.1",
-    "webpack": "^4.34.0"
+    "webpack": "^5.1.1"
   }
 }
